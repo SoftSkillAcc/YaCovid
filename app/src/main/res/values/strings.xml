@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YaCovid</string>
+    <string name="confirmed_count">Количество подтвержденных случаев</string>
+    <string name="recovered_count">Количество выздоровевших</string>
+    <string name="deaths_count">Количество смертей</string>
+    <string name="update_date">Обновлено</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
